@@ -34,7 +34,7 @@ int main(int argc, char *argv()){
 	
 	result=combination(n,r);
 	
-	printf("the combination of %d and %d will be: %.21f", n, r, result);
+	printf("the combination of %d and %d will be: %d\n", n, r, result);
 	
 	system("PAUSE");
 	return 0; 
